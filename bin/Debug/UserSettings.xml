@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<UserSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BasePath>C:\Program Files\DevExpress 23.1\Components\Sources\</BasePath>
+  <FilePatterns>
+    <string>*.cs;*.resx;*.xsd;*.wsdl;*.xaml;*.xml;*.htm;*.html;*.css;*.js;*.aspx;*.ascx;*.cshtml</string>
+    <string>*.cs</string>
+    <string>*.js</string>
+    <string>*.xaml</string>
+    <string>*.txt</string>
+    <string>*.*</string>
+  </FilePatterns>
+  <MRUItems>
+    <MRUItem>
+      <Value>C:\Program Files\DevExpress 23.1\Components\Sources\</Value>
+      <Pinned>true</Pinned>
+    </MRUItem>
+    <MRUItem>
+      <Value>C:\D\MyWork\VCProjects</Value>
+      <Pinned>true</Pinned>
+    </MRUItem>
+  </MRUItems>
+  <SelectedFilePatternIndex>4</SelectedFilePatternIndex>
+  <ContentPattern>test</ContentPattern>
+</UserSettings>

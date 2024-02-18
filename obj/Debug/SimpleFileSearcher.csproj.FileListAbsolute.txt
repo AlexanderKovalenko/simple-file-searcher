@@ -1,0 +1,54 @@
+E:\Archieve\VC6P\MyProjects\ProjectInstantiator\ProjectInstantiatorDistrib\SimpleFileSearcher\bin\Debug\SimpleFileSearcher.exe
+E:\Archieve\VC6P\MyProjects\ProjectInstantiator\ProjectInstantiatorDistrib\SimpleFileSearcher\bin\Debug\SimpleFileSearcher.pdb
+E:\Archieve\VC6P\MyProjects\ProjectInstantiator\ProjectInstantiatorDistrib\SimpleFileSearcher\obj\Debug\ResolveAssemblyReference.cache
+E:\Archieve\VC6P\MyProjects\ProjectInstantiator\ProjectInstantiatorDistrib\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.Form1.resources
+E:\Archieve\VC6P\MyProjects\ProjectInstantiator\ProjectInstantiatorDistrib\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.Properties.Resources.resources
+E:\Archieve\VC6P\MyProjects\ProjectInstantiator\ProjectInstantiatorDistrib\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.csproj.GenerateResource.Cache
+E:\Archieve\VC6P\MyProjects\ProjectInstantiator\ProjectInstantiatorDistrib\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.exe
+E:\Archieve\VC6P\MyProjects\ProjectInstantiator\ProjectInstantiatorDistrib\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.pdb
+E:\Archieve\VC6P\MyProjects\ProjectInstantiator\ProjectInstantiatorDistrib\SimpleFileSearcher\bin\Debug\SimpleFileSearcher.exe.config
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.exe
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.pdb
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.Form1.resources
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.Properties.Resources.resources
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.csproj.GenerateResource.Cache
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\bin\Debug\SimpleFileSearcher.exe
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\bin\Debug\SimpleFileSearcher.pdb
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.FindFilesResultControl.resources
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher - Copy\obj\Debug\SimpleFileSearcher.exe
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher - Copy\obj\Debug\SimpleFileSearcher.pdb
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher - Copy\bin\Debug\SimpleFileSearcher.exe
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher - Copy\bin\Debug\SimpleFileSearcher.pdb
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher - Copy\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher - Copy\obj\Debug\SimpleFileSearcher.FindFilesResultControl.resources
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher - Copy\obj\Debug\SimpleFileSearcher.Form1.resources
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher - Copy\obj\Debug\SimpleFileSearcher.Properties.Resources.resources
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher - Copy\obj\Debug\SimpleFileSearcher.csproj.GenerateResource.Cache
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher - Copy\obj\Debug\SimpleFileSearcher.FileViewerForm.resources
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.FileViewerForm.resources
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\bin\Debug\DevExpress.Data.v10.2.dll
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\bin\Debug\DevExpress.RichEdit.v10.2.Core.dll
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\bin\Debug\DevExpress.Utils.v10.2.dll
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\bin\Debug\DevExpress.XtraBars.v10.2.dll
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\bin\Debug\DevExpress.XtraEditors.v10.2.dll
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\bin\Debug\DevExpress.XtraRichEdit.v10.2.dll
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\bin\Debug\DevExpress.XtraRichEdit.v10.2.Extensions.dll
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\bin\Debug\DevExpress.RichEdit.v10.2.Core.xml
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\bin\Debug\DevExpress.XtraRichEdit.v10.2.xml
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\bin\Debug\DevExpress.Utils.v10.2.xml
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\bin\Debug\DevExpress.XtraBars.v10.2.xml
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\bin\Debug\DevExpress.Data.v10.2.xml
+D:\MyWork\ProjectInstantiator\SimpleFileSearcher\bin\Debug\DevExpress.XtraEditors.v10.2.xml
+C:\D\MyWork\ProjectInstantiator\SimpleFileSearcher\bin\Debug\SimpleFileSearcher.exe
+C:\D\MyWork\ProjectInstantiator\SimpleFileSearcher\bin\Debug\SimpleFileSearcher.pdb
+C:\D\MyWork\ProjectInstantiator\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.csproj.AssemblyReference.cache
+C:\D\MyWork\ProjectInstantiator\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.FileViewerForm.resources
+C:\D\MyWork\ProjectInstantiator\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.FindFilesResultControl.resources
+C:\D\MyWork\ProjectInstantiator\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.Form1.resources
+C:\D\MyWork\ProjectInstantiator\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.Properties.Resources.resources
+C:\D\MyWork\ProjectInstantiator\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.csproj.GenerateResource.cache
+C:\D\MyWork\ProjectInstantiator\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.csproj.CoreCompileInputs.cache
+C:\D\MyWork\ProjectInstantiator\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.csproj.CopyComplete
+C:\D\MyWork\ProjectInstantiator\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.exe
+C:\D\MyWork\ProjectInstantiator\SimpleFileSearcher\obj\Debug\SimpleFileSearcher.pdb

@@ -1,0 +1,11 @@
+search for 
+
+'ViewNavigatorItemBuilder' 
+
+in 
+
+'C:\Program Files (x86)\DevExpress 2010.2\Components\Sources\DevExpress.XtraScheduler'
+
+is not quite correct
+
+BY DESIGN - only first item is found. Search for 'ss ViewNavigatorItemBuilder' if you want to find a class definition.
